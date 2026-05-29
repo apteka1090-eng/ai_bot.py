@@ -1,3 +1,5 @@
 pyTelegramBotAPI
 groq
 pytz
+requests
+Flask
